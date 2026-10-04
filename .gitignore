@@ -1,0 +1,12 @@
+# Python virtual environments
+osken-venv/
+ryu-venv/
+ryu311-venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
